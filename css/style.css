@@ -1,0 +1,18 @@
+
+#mainContent{
+    background-image: url("../img/home.jpg");
+    background-color: rgb(0, 0, 0 ,0.6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.icons{
+    width: 100px;
+    height: 100px;
+}
+
+.mytable{
+    border-color:black;
+}
